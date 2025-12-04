@@ -1,9 +1,10 @@
 .my_name{
-    color:rgb(239, 243, 5);
+    color:rgb(14, 245, 103);
     background-color:rgb(13, 36, 244);
     border-radius: 10%;
     height: 200px;
     width: 200px;
-    border: 3px red solid 
+    border: 3px red solid;
+    
         
 }
